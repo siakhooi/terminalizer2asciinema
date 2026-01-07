@@ -24,10 +24,10 @@ dependencies = [
 ]
 
 [project.urls]
-homepage = "https://github.com/siakhooi/python-terminalizer2asciinema"
-repository = "https://github.com/siakhooi/python-terminalizer2asciinema"
-documentation = "https://github.com/siakhooi/python-terminalizer2asciinema/wiki"
-"Bug Tracker" = "https://github.com/siakhooi/python-terminalizer2asciinema/issues"
+homepage = "https://github.com/siakhooi/terminalizer2asciinema"
+repository = "https://github.com/siakhooi/terminalizer2asciinema"
+documentation = "https://github.com/siakhooi/terminalizer2asciinema/wiki"
+"Bug Tracker" = "https://github.com/siakhooi/terminalizer2asciinema/issues"
 
 [project.scripts]
 terminalizer2asciinema = 'terminalizer2asciinema.cli:run'

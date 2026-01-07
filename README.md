@@ -16,36 +16,35 @@ $ terminalizer2asciinema yamlfile
 
 ## Links
 - https://pypi.org/project/terminalizer2asciinema/
-- https://github.com/siakhooi/python-terminalizer2asciinema
+- https://github.com/siakhooi/terminalizer2asciinema
 - https://sonarcloud.io/project/overview?id=siakhooi_python-terminalizer2asciinema
-- https://qlty.sh/gh/siakhooi/projects/python-terminalizer2asciinema
+- https://qlty.sh/gh/siakhooi/projects/terminalizer2asciinema
 
 ## Badges
-![GitHub](https://img.shields.io/github/license/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub issues](https://img.shields.io/github/issues/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub top language](https://img.shields.io/github/languages/top/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub language count](https://img.shields.io/github/languages/count/siakhooi/python-terminalizer2asciinema?logo=github)
-![Lines of code](https://img.shields.io/tokei/lines/github/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub repo size](https://img.shields.io/github/repo-size/siakhooi/python-terminalizer2asciinema?logo=github)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siakhooi/python-terminalizer2asciinema?logo=github)
+![GitHub](https://img.shields.io/github/license/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub last commit](https://img.shields.io/github/last-commit/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub issues](https://img.shields.io/github/issues/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub top language](https://img.shields.io/github/languages/top/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub language count](https://img.shields.io/github/languages/count/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub repo size](https://img.shields.io/github/repo-size/siakhooi/terminalizer2asciinema?logo=github)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/siakhooi/terminalizer2asciinema?logo=github)
 
 ![Workflow](https://img.shields.io/badge/Workflow-github-purple)
-![workflow](https://github.com/siakhooi/python-terminalizer2asciinema/actions/workflows/build.yaml/badge.svg)
-![workflow](https://github.com/siakhooi/python-terminalizer2asciinema/actions/workflows/workflow-deployments.yml/badge.svg)
+![workflow](https://github.com/siakhooi/terminalizer2asciinema/actions/workflows/build.yaml/badge.svg)
+![workflow](https://github.com/siakhooi/terminalizer2asciinema/actions/workflows/workflow-deployments.yml/badge.svg)
 
 ![Release](https://img.shields.io/badge/Release-github-purple)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/siakhooi/python-terminalizer2asciinema?label=GPR%20release&logo=github)
-![GitHub all releases](https://img.shields.io/github/downloads/siakhooi/python-terminalizer2asciinema/total?color=33cb56&logo=github)
-![GitHub Release Date](https://img.shields.io/github/release-date/siakhooi/python-terminalizer2asciinema?logo=github)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/siakhooi/terminalizer2asciinema?label=GPR%20release&logo=github)
+![GitHub all releases](https://img.shields.io/github/downloads/siakhooi/terminalizer2asciinema/total?color=33cb56&logo=github)
+![GitHub Release Date](https://img.shields.io/github/release-date/siakhooi/terminalizer2asciinema?logo=github)
 
 ![Quality-Qlty](https://img.shields.io/badge/Quality-Qlty-purple)
-[![Maintainability](https://qlty.sh/gh/siakhooi/projects/python-terminalizer2asciinema/maintainability.svg)](https://qlty.sh/gh/siakhooi/projects/python-terminalizer2asciinema)
-[![Code Coverage](https://qlty.sh/gh/siakhooi/projects/python-terminalizer2asciinema/coverage.svg)](https://qlty.sh/gh/siakhooi/projects/python-terminalizer2asciinema)
+[![Maintainability](https://qlty.sh/gh/siakhooi/projects/terminalizer2asciinema/maintainability.svg)](https://qlty.sh/gh/siakhooi/projects/terminalizer2asciinema)
+[![Code Coverage](https://qlty.sh/gh/siakhooi/projects/terminalizer2asciinema/coverage.svg)](https://qlty.sh/gh/siakhooi/projects/terminalizer2asciinema)
 
 ![Quality-Sonar](https://img.shields.io/badge/Quality-SonarCloud-purple)
 [![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=siakhooi_python-terminalizer2asciinema&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=siakhooi_python-terminalizer2asciinema)
