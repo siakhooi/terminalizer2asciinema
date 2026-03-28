@@ -28,3 +28,6 @@ release:
 
 commit:
 	scripts/git-commit.sh
+
+fix-cert:
+	pip install pip-system-certs --trusted-host pypi.org --trusted-host files.pythonhosted.org
