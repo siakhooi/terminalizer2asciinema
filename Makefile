@@ -13,15 +13,15 @@ flake8:
 update:
 	poetry update
 test:
-	 poetry run pytest  --capture=sys \
-	 --junit-xml=coverage/test-results.xml \
-	 --cov=terminalizer2asciinema \
-	 --cov-report term-missing  \
-	 --cov-report xml:coverage/coverage.xml \
-	 --cov-report html:coverage/coverage.html \
-	 --cov-report lcov:coverage/coverage.info
+	poetry run pytest --capture=sys \
+	--junit-xml=coverage/test-results.xml \
+	--cov=terminalizer2asciinema \
+	--cov-report term-missing \
+	--cov-report xml:coverage/coverage.xml \
+	--cov-report html:coverage/coverage.html \
+	--cov-report lcov:coverage/coverage.info
 
-all: clean install flake8 build test
+all: clean install flake8 build tox-run
 
 release:
 	scripts/release.sh
@@ -31,3 +31,9 @@ commit:
 
 fix-cert:
 	pip install pip-system-certs --trusted-host pypi.org --trusted-host files.pythonhosted.org
+
+fix-pyenv:
+	 pyenv versions --bare > .python-version
+
+tox-run:
+	tox run
