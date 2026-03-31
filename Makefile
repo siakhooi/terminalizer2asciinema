@@ -1,6 +1,6 @@
 help:
 clean:
-	rm -rf dist target coverage
+	rm -rf dist target coverage .tox .pytest_cache .coverage tests/__pycache__ src/terminalizer2asciinema/__pycache__
 run:
 	poetry run terminalizer2asciinema test-data.yml
 build:
@@ -25,15 +25,6 @@ all: clean install flake8 build tox-run
 
 release:
 	scripts/release.sh
-
-commit:
-	scripts/git-commit.sh
-
-fix-cert:
-	pip install pip-system-certs --trusted-host pypi.org --trusted-host files.pythonhosted.org
-
-fix-pyenv:
-	 pyenv versions --bare > .python-version
 
 tox-run:
 	tox run
